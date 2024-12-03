@@ -1,0 +1,31 @@
+---
+title: "Katie Moloney"
+subtitle: "she/her"
+image: Headshot.JPG
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:kjm6@student.ubc.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/katiemoloney6/
+    - icon: github
+      text: Github
+      href: https://github.com/kjm6
+---
+
+::: {#hero-heading}
+
+
+I am a PhD student at University of British Columbia in Vancouver, British Columbia, Canada.
+
+My research focus is on microplastic release from tire and brake wear. I study the chemical makeup and transformations
+of aerosolized roadwear particulate matter and aim to identify the toxicological impact of roadwear particulate inhalation.
+
+
+:::
+
